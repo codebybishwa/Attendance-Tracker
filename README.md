@@ -8,6 +8,8 @@ The status is color-coded for easy interpretation:
 - <b>Yellow<b/>: Partial Attendance (1)
 - <b>Green<b/>: Full Attendance (2)
 
+The script also provides the total attendance count and missed classes.
+
 ## Features
 - Reads attendance timestamps and student details from input files.
 - Processes attendance for two consecutive lectures on each lecture date.
